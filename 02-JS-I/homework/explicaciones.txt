@@ -1,0 +1,15 @@
+Variables: Las variables son lugares para guardar informacion que luego se va a reutilizar en el codigo.
+Las mismas pueden modificarse a lo largo del codigo pero hay que tener en cuenta que cuando la modificas, el codigo va a utlizar el ultimo valor asignado a la variable.
+hay tres formas de llamarlas, VAR, CONST y LET.
+VAR se las llama a las variables a las que se les peude reasignar otro valor
+CONST son variables constantes, como su nombre lo dice, no pueden cambiar su valor
+LET es como se llama a las variables de la version mas nueva de Javascript a las cuales tambien se les puede modificar el valor
+
+Strings: Los strings son textos, ya sean alfabeticos o numericos, son cadenas de texto, de caracteres.
+
+Funciones: Es algo a lo que yo puedo llamar para que me devuelva un valor. O puede ser algo a lo que yo le paso argumentos, o valores y 
+me devuelve algo que hizo con esos valores
+
+Declaraciones: El If lo que hace es evaluar una condicion, que si se cumple, me devuelve el codigo que esta definido dentro de un corchete luego del If.
+
+Valores booleanos: Es un tipo de dato que solo puede contener uno de dos valores, o True o False.
