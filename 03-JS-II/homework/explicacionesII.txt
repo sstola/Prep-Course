@@ -1,6 +1,7 @@
 For: Es un tipo de bucle de Javascript, sirve para ejecutar o evaluar algo N cantidad de veces.
 Para que el bucle no sea infinito necesitamos definir algo que lo interrumpa, como un contador por ejempplo
 
+
 `&&`, `||`, `!`: Estos simbolos son operadores logicos de Javascript.
 El && representa el AND, se usa cuando queres decir "esto" && "esto". Todas las condiciones tienen que dar True, 
 si una da False, no se evaluan las demas.
