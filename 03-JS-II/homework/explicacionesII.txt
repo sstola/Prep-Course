@@ -1,0 +1,12 @@
+For: Es un tipo de bucle de Javascript, sirve para ejecutar o evaluar algo N cantidad de veces.
+Para que el bucle no sea infinito necesitamos definir algo que lo interrumpa, como un contador por ejempplo
+
+`&&`, `||`, `!`: Estos simbolos son operadores logicos de Javascript.
+El && representa el AND, se usa cuando queres decir "esto" && "esto". Todas las condiciones tienen que dar True, 
+si una da False, no se evaluan las demas.
+El || es el OR, se usa cuando "esto" || "esto". 
+Se evaluan todas las condiciones y mientras una sea True, el resultado va a ser True.
+El && y el || sirven para unir validaciones.
+El ! es el NOT, el mismo se usa dentro del IF, entre parentesis, antes de lo que se quiere comprobar se pone el !.
+Si la condicion de eso se cumple, retorna el valor booleano de lo que se pide, sino, puede llegar a no ejecutarse.
+por ejemplo, if(!(1===2)) va a retornar true, dado que esta bien lo escrito, "NOT 1===1"
