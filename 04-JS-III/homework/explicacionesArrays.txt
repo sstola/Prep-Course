@@ -1,0 +1,7 @@
+Arrays:
+Los arrays son arreglos, son listas de elementos de una misma variable,
+Los elementos pueden ser de cualquier tipo (strings, enteros, objetos u otros arrays).
+Pueden variar su longitud siempre que se les quite o agregue un elemento.
+Pueden quitarse o agregarse los elementos del array de forma selectiva.
+Dentro de los mismos se pueden efectuar operaciones como de recorrido, de suma, de resta,
+de multiplicacion, etc.
