@@ -1,0 +1,17 @@
+Objetos: El objeto es un tipo de dato de JS que permite contener otros tipos de datos (propiedades)
+y funciones (metodos)
+Estas propiedades y metodos son accesibles a traves de identificadores (keys), tambien se pueden
+modificar, eliminar, ser undiefined o estar vacias.
+
+Las propiedades son tipos de datos que van a guardar informacion.
+Los metodos son funciones que pueden o no utilizar las propiedades del objeto donde estan definidas.
+
+Bucle 'for...in': es el metodo que utilizamos para recorrrer (iterar) en las propiedades de un objeto.
+
+Notación de puntos vs notación de corchetes: estos operadores son para acceder y operar en las propiedades 
+de un objeto.
+Cuando usamos el punto, la propiedad no puede empezar con numeros ni tener espacios, tiene que ser una cadena 
+valida para JS.
+Para ello estan los [], donde la propiedad puede ser alfanumerica, empezar con numeros, tener espacio o
+mismo el resultado de una funcion.
+
